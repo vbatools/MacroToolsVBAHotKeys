@@ -12,12 +12,11 @@ Add-in
 ![alt tag](https://vbatools.ru/wp-content/uploads/2019/10/main-macro-tools-vba2.gif "Use Macro Tools VBA Example")
 
 ## HOT KEYS Add-in Macro Tools VBA
-HotKey    | Description                                | Описание
+HotKey     Description                                 Описание
 
-ALT + 1   | Add new module                             | Создать новый модуль
-
-ALT + 2   | Add new user form                          | Создать новую форму
-ALT + 3   | Compile VBAProject                         | Компилировать VBAProject
+|ALT + 1   | Add new module                             | Создать новый модуль|
+|ALT + 2   | Add new user form                          | Создать новую форму |
+|ALT + 3   | Compile VBAProject                         | Компилировать VBAProject|
 ALT + 4   | Creating a description                     | Создания описания 
 ALT + 5   | Insert Option Explicit and Private Module  | Вставка опций Explicit и Private Module
 ALT + B   | Delete numbers strings code                | Удаление нумерации строк кода
