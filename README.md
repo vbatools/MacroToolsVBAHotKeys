@@ -21,10 +21,10 @@ ALT + 3 | Compile VBAProject | Компилировать VBAProject
 ALT + 4 | Creating a description| Создания описания 
 ALT + 5 | Insert Option Explicit and Private Module  | Вставка опций Explicit и Private Module
 ALT + B | Delete numbers strings code | Удаление нумерации строк кода
-ALT + G | Add numbers strings code                   | Создание нумерации строк кода
-ALT + L | Add hot keys legenda                       | Описание горячих клавишь
-ALT + S | Formating cods                             | Форматирование кода
-ALT + X | Un formating cods                          | Удаление форматирования кода
-ALT + Z | Use snnipets                               | Использование сннипета
-CTR + Q | Comment block                              | Закоментировать блок кода
-CTR + W | Uncomment block                            | Раскоментировать блок кода
+ALT + G | Add numbers strings code| Создание нумерации строк кода
+ALT + L | Add hot keys legenda | Описание горячих клавишь
+ALT + S | Formating cods | Форматирование кода
+ALT + X | Un formating cods | Удаление форматирования кода
+ALT + Z | Use snnipets | Использование сннипета
+CTR + Q | Comment block | Закоментировать блок кода
+CTR + W | Uncomment block | Раскоментировать блок кода
