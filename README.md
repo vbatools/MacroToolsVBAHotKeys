@@ -1,6 +1,7 @@
 # MacroToolsVBA https://vbatools.ru/
 
 **AUTO HOT KEY** - module for configuring MacroTools VBA - which adds keyboard shortcuts to the VBE IDE
+
 **AUTO HOT KEY** - Модуль для настройки MacroTools VBA - который добавляет горячие клавиши в IDE VBE
 
 **Macro Tools VBA** - a tool for automating the development of macros in the Visual Basic Editor (VBE) MS Excel and Word
