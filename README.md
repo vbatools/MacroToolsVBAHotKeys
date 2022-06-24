@@ -14,6 +14,7 @@ Add-in
 ## HOT KEYS Add-in Macro Tools VBA
 
 HotKey | Description | Описание
+--- | --- | --- 
 ALT + 1 | Add new module| Создать новый модуль
 ALT + 2 | Add new user form| Создать новую форму 
 ALT + 3 | Compile VBAProject | Компилировать VBAProject
