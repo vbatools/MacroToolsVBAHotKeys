@@ -9,10 +9,6 @@ Add-in
 
 **Home page add-in:** https://vbatools.ru/macro-tools-vba-addin-excel/
 
-**MY YOUTUBE** https://youtu.be/YSwqfHEIJHg
-![alt tag](https://vbatools.ru/wp-content/uploads/2019/10/main-macro-tools-vba2.gif "Use Macro Tools VBA Example")
-
-
 ## HOT KEYS Add-in Macro Tools VBA
 
 HotKey | Description | Описание
@@ -30,3 +26,6 @@ ALT + X | Un formating cods | Удаление форматирования ко
 ALT + Z | Use snnipets | Использование сннипета
 CTR + Q | Comment block | Закоментировать блок кода
 CTR + W | Uncomment block | Раскоментировать блок кода
+
+**MY YOUTUBE** https://youtu.be/YSwqfHEIJHg
+![alt tag](https://vbatools.ru/wp-content/uploads/2019/10/main-macro-tools-vba2.gif "Use Macro Tools VBA Example")
