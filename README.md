@@ -13,14 +13,14 @@ Add-in
 
 ## HOT KEYS Add-in Macro Tools VBA
 
-Attempt | #1 | #2 
+HotKey | Description | Описание
 --- | --- | --- 
-Seconds | 301 | 283 
-
-HotKey |Description |Описание
 ALT + 1 | Add new module| Создать новый модуль
+--- | --- | --- 
 ALT + 2 | Add new user form| Создать новую форму 
+--- | --- | --- 
 ALT + 3 | Compile VBAProject | Компилировать VBAProject
+--- | --- | --- 
 
 ALT + 4   | Creating a description                     | Создания описания 
 ALT + 5   | Insert Option Explicit and Private Module  | Вставка опций Explicit и Private Module
