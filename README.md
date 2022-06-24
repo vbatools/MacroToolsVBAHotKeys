@@ -9,7 +9,9 @@ Add-in
 
 **Home page add-in:** https://vbatools.ru/macro-tools-vba-addin-excel/
 
-![alt tag](https://vbatools.ru/wp-content/uploads/2019/10/main-macro-tools-vba2.gif "Use Macro Tools VBA Example")(https://youtu.be/YSwqfHEIJHg)
+**MY YOUTUBE** https://youtu.be/YSwqfHEIJHg
+![alt tag](https://vbatools.ru/wp-content/uploads/2019/10/main-macro-tools-vba2.gif "Use Macro Tools VBA Example")
+
 
 ## HOT KEYS Add-in Macro Tools VBA
 
